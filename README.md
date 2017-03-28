@@ -38,7 +38,7 @@ $ cd fizzbuzz-CSharp
 
 ## <a name="tests">NUnit Tests</a> ##
 
-```code
+```csharp
 namespace Work
 {
     [TestFixture]
@@ -59,7 +59,7 @@ namespace Work
 ```
 
 ## <a name="code">C# Code</a> ##
-```code
+```csharp
 namespace Work
 {
     public class Kata
